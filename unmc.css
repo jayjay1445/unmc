@@ -1,0 +1,9 @@
+.container{
+    width: 480px;
+    margin: auto;
+    background-color: gainsboro;
+}
+.header{
+    display: flex;
+    background-color: gainsboro;
+}
